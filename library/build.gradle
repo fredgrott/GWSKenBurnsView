@@ -11,7 +11,7 @@ def libVersionName = "1.0.0.0"
 version = libVersionName
 def siteUrl = 'https://github.com/shareme/GWSKenBurnsView'
 def gitUrl = 'https://github.com/shareme/GWSKenBurnsView.git'
-group = "com.github.shareme.GWSKenBurnsView"
+group = "com.github.shareme"
 
 
 
